@@ -1,0 +1,25 @@
+{
+  "backend": "interp",
+  "escala": 3,
+  "tela_cheia": false,
+  "volume": 80,
+  "velocidade": 3,
+  "filtro_cor": "normal",
+  "filtro_res": "nearest",
+  "ultima_pasta": "D:/JOGOS/GBA/_pico/covers/gba",
+  "pastas_biblioteca": [
+    "D:/JOGOS/GBA"
+  ],
+  "sites_capas": [
+    {
+      "nome": "Capa de Caixa",
+      "url": "https://github.com/xero/boxart.git"
+    },
+    {
+      "nome": "Libretro",
+      "url": "https://github.com/libretro-thumbnails/libretro-thumbnails#libretro-thumbnails"
+    }
+  ],
+  "caminho_nucleo": "",
+  "caminho_bios": "D:/JOGOS/GBA/gba_bios/gba_bios.bin"
+}

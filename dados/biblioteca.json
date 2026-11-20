@@ -1,0 +1,2929 @@
+{
+  "jogos": {
+    "dd5945db9b930750cb39d00c84da8571feebf417": {
+      "titulo": "POKEMON FIRE",
+      "game_code": "BPRE",
+      "caminho": "D:\\JOGOS\\GBA\\Pokemon - FireRed Version (USA, Europe) (Rev 1)\\Pokemon - FireRed Version (USA, Europe) (Rev 1).gba",
+      "tamanho": 16777216,
+      "header_valido": true,
+      "adicionado_em": "2026-11-14T11:56:43",
+      "opcoes": {
+        "backend": "dynarec",
+        "escala": 4,
+        "tela_cheia": true,
+        "volume": 50
+      },
+      "mtime_ns": 851481120000000000
+    },
+    "7862c67bdecbe21d1d69ce082ce34327e1c6ed5e": {
+      "titulo": "POKEMON LEAF",
+      "game_code": "BPGE",
+      "caminho": "D:\\JOGOS\\GBA\\Pokemon - LeafGreen Version (USA, Europe) (Rev 1)\\Pokemon - LeafGreen Version (USA, Europe) (Rev 1).gba",
+      "tamanho": 16777216,
+      "header_valido": true,
+      "adicionado_em": "2026-11-14T16:17:37",
+      "opcoes": {
+        "backend": "decomp",
+        "escala": 4,
+        "tela_cheia": false,
+        "volume": 39
+      },
+      "mtime_ns": 851481120000000000
+    },
+    "9cdcb8b15dcfd601d9e6246f2384dfd1e13e1dca": {
+      "titulo": "POKEMON RUBY",
+      "game_code": "AXVE",
+      "caminho": "D:\\JOGOS\\GBA\\Pokemon Pigment Ruby (v1.0)\\Pokemon Pigment Ruby V1.GBA",
+      "tamanho": 16777216,
+      "header_valido": true,
+      "adicionado_em": "2026-11-14T16:19:41",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 4,
+        "tela_cheia": false,
+        "volume": 47,
+        "velocidade": 3,
+        "filtro_cor": "vibrante",
+        "filtro_res": "lcd"
+      },
+      "mtime_ns": 1636343990000000000
+    },
+    "56bedfb6d2f970a384cb54f6024eb7342d37d807": {
+      "titulo": "POKEMON FIRE",
+      "game_code": "BPRE",
+      "caminho": "D:\\JOGOS\\GBA\\Pokemon Psychic Adventure (V3.5)\\Pokemon Psychic Adventures v3.5.gba",
+      "tamanho": 16777216,
+      "header_valido": true,
+      "adicionado_em": "2026-11-14T16:19:57",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80
+      },
+      "mtime_ns": 1616903756000000000
+    },
+    "69e81f41394f02d64cad206adb26b3cd43690770": {
+      "titulo": "SUPER MARIOD",
+      "game_code": "AX4E",
+      "caminho": "D:\\JOGOS\\GBA\\Super Mario Advance 4 - Super Mario Bros. 3 (USA).gba",
+      "tamanho": 4194304,
+      "header_valido": true,
+      "adicionado_em": "2026-11-18T11:25:12",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      },
+      "mtime_ns": 851481120000000000
+    },
+    "67617136f205fa071d9fc239df09471e603c675c": {
+      "titulo": "(sem título)",
+      "game_code": "\u0000\u0000\u0000\u0000",
+      "caminho": "D:\\JOGOS\\GBA\\Elland - The Crystal Wars (World) (Digital) (Aftermarket) (Unl).gba",
+      "tamanho": 4016344,
+      "mtime_ns": 851481120000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "47dd1df728eddc2f0826218f81da5c39d4418e55": {
+      "titulo": "POKEMON FIRE",
+      "game_code": "BPRE",
+      "caminho": "D:\\JOGOS\\GBA\\Pokemon My Ass.gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1313435480000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "61e1c0887f744a4e847915ffc4646ec984a8bf90": {
+      "titulo": "COMPILATION2",
+      "game_code": "B2AP",
+      "caminho": "D:\\JOGOS\\GBA\\2 in 1 Asterix & Obelix (BR)\\2 in 1 Asterix & Obelix (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1450789104000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "a2a4cefd023dea56ef8a4effa2f25efceaa50ac9": {
+      "titulo": "ADVANCEWARS",
+      "game_code": "AWRE",
+      "caminho": "D:\\JOGOS\\GBA\\Advance Wars (BR)\\Advance Wars (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1330867858000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "9c5d473f06740d7778f852049f7f04e9d594e2a7": {
+      "titulo": "ADVANCEWARS2",
+      "game_code": "AW2P",
+      "caminho": "D:\\JOGOS\\GBA\\Advance Wars 2 - Black Hole Rising (BR)\\Advance Wars 2 - Black Hole Rising (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1479638442000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "ab2c6faef04ba4d69eae936e0dbaa9e776d12edf": {
+      "titulo": "ROBORUMBLE",
+      "game_code": "BHQP",
+      "caminho": "D:\\JOGOS\\GBA\\Agent Hugo - RoboRumble (BR)\\Agent Hugo - RoboRumble (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 851477520000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "ef39ae4ffaebb00f20a710ceb2dde66d02b472ea": {
+      "titulo": "AGGRESSIVE I",
+      "game_code": "AILE",
+      "caminho": "D:\\JOGOS\\GBA\\Aggressive Inline (BR)\\Aggressive Inline (BR).gba",
+      "tamanho": 8388637,
+      "mtime_ns": 1450787518000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "9d0a550c4bdfdb8984ed44c61924e3ae699434bb": {
+      "titulo": "ARMY MEN ADV",
+      "game_code": "ASAE",
+      "caminho": "D:\\JOGOS\\GBA\\Army Men Advance (BR)\\Army Men Advance (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1569462030000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "2e6dcf8973ab7b311820265507d771e5b3b7148d": {
+      "titulo": "AVATAR",
+      "game_code": "BQZE",
+      "caminho": "D:\\JOGOS\\GBA\\Avatar - The Last Airbender (BR)\\Avatar - The Last Airbender (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1437640766000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "372914d8d8214fd4d024063731dea0892206995e": {
+      "titulo": "BANJOKAZOOIE",
+      "game_code": "BKZE",
+      "caminho": "D:\\JOGOS\\GBA\\Banjo-Kazooie - Grunty's Revenge (BR)\\Banjo-Kazooie - Grunty's Revenge (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1450815600000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "ad71cd1463ce05fb7e39440e460488e1d6768c6d": {
+      "titulo": "BATMAN-RISE",
+      "game_code": "BATE",
+      "caminho": "D:\\JOGOS\\GBA\\Batman - Rise of Sin Tzu (BR)\\Batman Rise of Sin Tzu (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1295809112000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "62ac217cbf98d20996dc86e5984825eb28331293": {
+      "titulo": "BLACKTHORNE",
+      "game_code": "AQXE",
+      "caminho": "D:\\JOGOS\\GBA\\Blackthorne (BR)\\Blackthorne (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1306439583974400000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "c568abb689ca05e4b8b362e086cecb9541f5b30a": {
+      "titulo": "BOKTAI",
+      "game_code": "U3IE",
+      "caminho": "D:\\JOGOS\\GBA\\Boktai - The Sun is in Your Hand (BR)\\Boktai - The Sun is in Your Hand (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1388005384000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "cec8cc04b36d40dfb30be81f88ecc5d418137a54": {
+      "titulo": "BOMBERMANBR",
+      "game_code": "ABSE",
+      "caminho": "D:\\JOGOS\\GBA\\Bomberman Tournament (BR)\\Bomberman Tournament (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1181363702000000000,
+      "header_valido": false,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "566cdf6475f122aea2fdfb58ed21b08326f780d7": {
+      "titulo": "BOF2",
+      "game_code": "AB2E",
+      "caminho": "D:\\JOGOS\\GBA\\Breath of Fire II (BR)\\Breath of Fire II (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1426951610000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "606ad547286fdf14cc0fe60e5c34f9db83a059dc": {
+      "titulo": "CARE_BEARS",
+      "game_code": "BEAP",
+      "caminho": "D:\\JOGOS\\GBA\\Care Bears - The Care Quest (BR)\\Care Bears - The Care Quest (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1130500216000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "b7dbdf12678e0f36973ca660178f8978450f4a3e": {
+      "titulo": "DIS PIX CARS",
+      "game_code": "BCAY",
+      "caminho": "D:\\JOGOS\\GBA\\Cars (BR)\\Cars (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 851477520000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "2321b90c04690e8e4973a4495d25c9197ab5bfcc": {
+      "titulo": "CASPER",
+      "game_code": "ACSP",
+      "caminho": "D:\\JOGOS\\GBA\\Casper (BR)\\Casper (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1015462606000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "4e579c36f24173e5004f0cc361018ff7c58bbe2c": {
+      "titulo": "CASTLEVANIA2",
+      "game_code": "A2CP",
+      "caminho": "D:\\JOGOS\\GBA\\Castlevania - Aria of Sorrow (BR)\\Castlevania - Aria of Sorrow (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1186835384000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "920ab4404188606d653228cc522650a167fa4850": {
+      "titulo": "DRACULA AGB1",
+      "game_code": "AAME",
+      "caminho": "D:\\JOGOS\\GBA\\Castlevania - Circle of the Moon (BR)\\Castlevania - Circle of the Moon (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1306439915295400000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "d0f51095554a926b11333e7526538df8840cc5a9": {
+      "titulo": "CASTLEVANIA1",
+      "game_code": "ACHE",
+      "caminho": "D:\\JOGOS\\GBA\\Castlevania - Harmony of Dissonance (BR)\\Castlevania - Harmony of Dissonance (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1227304906000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "40e254c1a9e17c46b9fc25f0993a122c56bb4abb": {
+      "titulo": "CONTRAADVANC",
+      "game_code": "AAWE",
+      "caminho": "D:\\JOGOS\\GBA\\Contra Advance - The Alien Wars EX (BR)\\Contra Advance - The Alien Wars EX (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1136751990000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "c798c4bf2c693cc187202ac99557bc1c27812795": {
+      "titulo": "CRASH2",
+      "game_code": "AC8E",
+      "caminho": "D:\\JOGOS\\GBA\\Crash Bandicoot 2 - N-Tranced (BR)\\Crash Bandicoot 2 - N-Tranced (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1371906764000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "d34f3af649b5206e4776b6fc4c9de532fcfbdc2a": {
+      "titulo": "CRASH PURPLE",
+      "game_code": "BD4P",
+      "caminho": "D:\\JOGOS\\GBA\\Crash Bandicoot Fusion (BR)\\Crash Bandicoot Fusion (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1371899856000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "19e4ec8490deca1cfcb330c93a0f5c2089513aaa": {
+      "titulo": "CRASH",
+      "game_code": "ACQP",
+      "caminho": "D:\\JOGOS\\GBA\\Crash Bandicoot XS (BR)\\Crash Bandicoot XS (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1437208305000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "af2a13d25e10d91e061a316c0b282974cc81326c": {
+      "titulo": "CRAZY CHASE",
+      "game_code": "ACCE",
+      "caminho": "D:\\JOGOS\\GBA\\Crazy Chase (BR)\\Crazy Chase (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1450816058000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "b533a29d853ce8974c8749b8d934d8bf93a10dd0": {
+      "titulo": "CRAZY FROG K",
+      "game_code": "BCRP",
+      "caminho": "D:\\JOGOS\\GBA\\Crazy Frog Racer (BR)\\Crazy Frog Racer (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1453481102993938200,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "309c444e7492746796160c9132b74f8acd9f74bf": {
+      "titulo": "CRAZY TAXI C",
+      "game_code": "A3CE",
+      "caminho": "D:\\JOGOS\\GBA\\Crazy Taxi - Catch A Ride (BR)\\Crazy Taxi - Catch a Ride (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1136026228000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "dd82f721f017a9ea204f6481e41e0b5a76649142": {
+      "titulo": "DANNYPHANTOM",
+      "game_code": "BUEP",
+      "caminho": "D:\\JOGOS\\GBA\\Danny Phantom - The Ultimate Enemy (BR)\\Danny Phantom - The Ultimate Enemy (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1401469354000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "8974166a41364797a5f09927daf1c38edc825eed": {
+      "titulo": "RAREDKC1",
+      "game_code": "A5NE",
+      "caminho": "D:\\JOGOS\\GBA\\Donkey Kong Country (BR)\\Donkey Kong Country (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1459425665602425100,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "47f9b6378cd92c95c2c4af995bf21ec54ca46f5e": {
+      "titulo": "RAREDKC3",
+      "game_code": "BDQP",
+      "caminho": "D:\\JOGOS\\GBA\\Donkey Kong Country 3 (BR)\\Donkey Kong Country 3 (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1437792386000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "6bf16963393f8c5e76d993e2f6ad74de42adef32": {
+      "titulo": "DRAGONBALLAA",
+      "game_code": "BDVP",
+      "caminho": "D:\\JOGOS\\GBA\\Dragon Ball - Advanced Adventure (BR)\\Dragon Ball - Advanced Adventure (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1437206747000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "e8ec4af4d7a39c80aed98c2afe39e1e60ea1a1b0": {
+      "titulo": "DRAGON BALLZ",
+      "game_code": "BDBP",
+      "caminho": "D:\\JOGOS\\GBA\\Dragon Ball Z - Taiketsu (BR)\\Dragon Ball Z - Taiketsu (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1293499652000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "1f8e979f583aeafb5daaeb924c3afe6acf292d2c": {
+      "titulo": "DBZ LGCYGOKU",
+      "game_code": "ALGE",
+      "caminho": "D:\\JOGOS\\GBA\\Dragon Ball Z - The Legacy Of Goku (BR)\\Dragon Ball Z - The Legacy Of Goku (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1148321366000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "0b182d21997ec3bf2b27e9bf966a779a22715e7e": {
+      "titulo": "EXTREME GHOS",
+      "game_code": "AEGP",
+      "caminho": "D:\\JOGOS\\GBA\\Extreme Ghostbusters - Code Ecto-1 (BR)\\Extreme Ghostbusters - Code Ecto-1 (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 851477520000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "7c8d4a470d6ea849a7d3edc4be3cbe84a1906e75": {
+      "titulo": "F-ZERO ADVAN",
+      "game_code": "AFZE",
+      "caminho": "D:\\JOGOS\\GBA\\F-Zero - Maximum Velocity (BR)\\F-Zero - Maximum Velocity (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1459425276114913500,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "b2412ef61a140c061bc70f3f22534fd9c3a40a92": {
+      "titulo": "FIFA 2004",
+      "game_code": "BFIE",
+      "caminho": "D:\\JOGOS\\GBA\\FIFA 2004 (BR)\\FIFA 2004 (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1295809336000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "98c9855ec8a778deed8bd55836e3c065ab3fc024": {
+      "titulo": "FF1&2DAWNOFS",
+      "game_code": "BFFP",
+      "caminho": "D:\\JOGOS\\GBA\\Final Fantasy I & II - Dawn of Souls (BR)\\Final Fantasy I & II - Dawn of Souls (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1450817056000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "95b0b6fc204e7d7955ae8300ac18cc2d1d9f5f60": {
+      "titulo": "FF6ADVANCE",
+      "game_code": "BZ6E",
+      "caminho": "D:\\JOGOS\\GBA\\Final Fantasy VI Advance (BR)\\Final Fantasy VI Advance (BR).gba",
+      "tamanho": 8455448,
+      "mtime_ns": 1459426897327457700,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "24f3cac73f6d21500cc4acd5238b0176d35db0d2": {
+      "titulo": "FRANKLIN",
+      "game_code": "BFLP",
+      "caminho": "D:\\JOGOS\\GBA\\Franklin's Great Adventure (BR)\\Franklin's Great Adventure (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 851477520000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "6789103053a22bf2bc7a6fcb3fbfbb279eff8d66": {
+      "titulo": "GEKIDO",
+      "game_code": "AGEP",
+      "caminho": "D:\\JOGOS\\GBA\\Gekido Advance - Kintaro's Revenge (BR)\\Gekido Advance - Kintaro's Revenge (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1295809928000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "859d02a6825b8129478ec565de662de77ca86fbb": {
+      "titulo": "GHOST RIDER",
+      "game_code": "BR8E",
+      "caminho": "D:\\JOGOS\\GBA\\Ghost Rider (BR)\\Ghost Rider (BR).GBA",
+      "tamanho": 8388608,
+      "mtime_ns": 1335891260000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:52",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "b51b9a427eb1f314888501f98994188734862ab1": {
+      "titulo": "KyleRunnerB2",
+      "game_code": "AGSI",
+      "caminho": "D:\\JOGOS\\GBA\\Golden Sun (BR)\\Golden Sun (BR).gba",
+      "tamanho": 8954150,
+      "mtime_ns": 1306441016157400000,
+      "header_valido": false,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "a2c4bf97785e717ef45e4b73a6c66a2d4ae18192": {
+      "titulo": "GREMLINS STR",
+      "game_code": "AGGP",
+      "caminho": "D:\\JOGOS\\GBA\\Gremlins - Stripe vs Gizmo (BR)\\Gremlins - Stripe vs Gizmo (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 851477520000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "800dd3a1e3bf49a0bbfd5cd6aea461ebf81acc6a": {
+      "titulo": "GTA",
+      "game_code": "BGTE",
+      "caminho": "D:\\JOGOS\\GBA\\GTA Advance (BR)\\GTA Advance (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1242699912000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "cfde9467b55052182ba13e5c3560636d0b69a445": {
+      "titulo": "GUNSTAR SH",
+      "game_code": "BHGE",
+      "caminho": "D:\\JOGOS\\GBA\\Gunstar Super Heroes (BR)\\Gunstar Super Heroes (BR).gba",
+      "tamanho": 8492362,
+      "mtime_ns": 1450817464000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "0218e3be69334cac752d5ad5b3763a26252cb88b": {
+      "titulo": "HPOTTER COS",
+      "game_code": "A7HE",
+      "caminho": "D:\\JOGOS\\GBA\\Harry Potter and the Chamber of Secrets (BR)\\Harry Potter and the Chamber of Secrets (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1037219872000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "670d5d826927b0d2e2b54664a993455976166bd9": {
+      "titulo": "HARRYPHOENI",
+      "game_code": "BJXE",
+      "caminho": "D:\\JOGOS\\GBA\\Harry Potter and the Order of the Phoenix (BR)\\Harry Potter and the Order of the Phoenix (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1404114698000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "40d3f693e444192c94a0ff3cd9ed5f64162ac777": {
+      "titulo": "HARRY POTTER",
+      "game_code": "AHRE",
+      "caminho": "D:\\JOGOS\\GBA\\Harry Potter and the Sorcerer's Stone (BR)\\Harry Potter and the Sorcerer's Stone (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1005175388000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "eb65c594e25e9fc232099919c938f1a65c19ebc0": {
+      "titulo": "HARVESTMOGBA",
+      "game_code": "A4NE",
+      "caminho": "D:\\JOGOS\\GBA\\Harvest Moon - Friends of Mineral Town (BR)\\Harvest Moon - Friends of Mineral Town (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1293499638000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "083048954da571a63abcfbad6e7d694c6bd48d77": {
+      "titulo": "EVILMIRROR",
+      "game_code": "AHJP",
+      "caminho": "D:\\JOGOS\\GBA\\Hugo - The Evil Mirror Advance (BR)\\Hugo - The Evil Mirror Advance (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1033155760000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "aec61f769ad04b213fad8cb7d9196c29300c6567": {
+      "titulo": "BUKKAZOOM",
+      "game_code": "AZHP",
+      "caminho": "D:\\JOGOS\\GBA\\Hugo Bukkazoom! (BR)\\Hugo Bukkazoom! (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1036177036000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "3a1f117d6123cb8bb7496574b7cb20dd6336f6d0": {
+      "titulo": "IRIDIONII",
+      "game_code": "AI2E",
+      "caminho": "D:\\JOGOS\\GBA\\Iridion II (BR)\\Iridion II (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1450818054000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "9279a7c128de12648a8180a3dcd1b53e95b1ee70": {
+      "titulo": "JAMES POND 2",
+      "game_code": "AJDE",
+      "caminho": "D:\\JOGOS\\GBA\\James Pond - Codename Robocod (BR)\\James Pond - Codename Robocod (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1126458000000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "ef7582abc7f270a2196d80e9f5d9cf7ebf4696e1": {
+      "titulo": "INJUSTICEFOR",
+      "game_code": "AJLP",
+      "caminho": "D:\\JOGOS\\GBA\\Justice League - Injustice for All (BR)\\Justice League - Injustice for All (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1422737986000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "49bf42af191cd9f48196621bced45379786bffa5": {
+      "titulo": "KINGDOMHEART",
+      "game_code": "B8CE",
+      "caminho": "D:\\JOGOS\\GBA\\Kingdom Hearts - Chain of Memories (BR)\\Kingdom Hearts - Chain of Memories (BR).gba",
+      "tamanho": 33554432,
+      "mtime_ns": 1388427488000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "3304d1188f269a105808146ac05df6ff3a597781": {
+      "titulo": "KOALA_BROS",
+      "game_code": "BAKE",
+      "caminho": "D:\\JOGOS\\GBA\\Koala Brothers - Outback Adventures (BR)\\Koala Brothers - Outback Adventures (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1146346562000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "76e7814ca97f7caa1b10eb62e9d42c757f015cfb": {
+      "titulo": "LADY SIA",
+      "game_code": "ALDE",
+      "caminho": "D:\\JOGOS\\GBA\\Lady Sia (BR)\\Lady Sia (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1136026890000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "c100c1d6a9a4ff0bf29c0215c99830f51dd46c0f": {
+      "titulo": "LOVEHINAADVA",
+      "game_code": "ALHJ",
+      "caminho": "D:\\JOGOS\\GBA\\Love Hina Advance (BR)\\Love Hina Advance (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1156465068000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "e86f17cdb49be8751ee5000e519e02f1e32d733b": {
+      "titulo": "MADAGASCAR",
+      "game_code": "BGZX",
+      "caminho": "D:\\JOGOS\\GBA\\Madagascar (BR)\\Madagascar (Europe) (Fr,De,Pt).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 851477520000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "6d8a030cdd0c15c3a19dabafeea28cc8c95b71eb": {
+      "titulo": "MARIO&LUIGIP",
+      "game_code": "A88P",
+      "caminho": "D:\\JOGOS\\GBA\\Mario & Luigi - Superstar Saga (BR)\\Mario & Luigi - Superstar Saga (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1306441700136400000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "e174fb274f1fb051d6256c88edba606ed8d6fddd": {
+      "titulo": "MV1 ALLIANCE",
+      "game_code": "B4ME",
+      "caminho": "D:\\JOGOS\\GBA\\Marvel Ultimate Alliance (BR)\\Marvel Ultimate Alliance (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1397713824000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "3aadf0ef06fdf550a52b95a7285cb63808b4b4db": {
+      "titulo": "MEGAMAN&BASS",
+      "game_code": "A6MP",
+      "caminho": "D:\\JOGOS\\GBA\\Megaman & Bass (BR)\\Megaman & Bass (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1437206754000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "811bbf2a0540ab0ee3d76fa1a40b979374b3e7f6": {
+      "titulo": "MEGAMAN_BN",
+      "game_code": "AREE",
+      "caminho": "D:\\JOGOS\\GBA\\Megaman Battle Network (BR)\\Megaman Battle Network (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1437607295000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "494370a7355401e6fbd6e91471cb2b5b241ee2c0": {
+      "titulo": "MEGAMAN ZERO",
+      "game_code": "AZCE",
+      "caminho": "D:\\JOGOS\\GBA\\Megaman Zero (BR)\\Megaman Zero (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1053273852000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "9fef059a1f77f0e3ec6e8bbc237c91c195409a8f": {
+      "titulo": "MEGAMANZERO2",
+      "game_code": "A62E",
+      "caminho": "D:\\JOGOS\\GBA\\Megaman Zero 2 (BR)\\Megaman Zero 2 (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1146359086000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "673941b469f5d02e008ac49d6106d3396e6bfd99": {
+      "titulo": "MEGAMANZERO3",
+      "game_code": "BZ3E",
+      "caminho": "D:\\JOGOS\\GBA\\MegaMan Zero 3 (BR)\\MegaMan Zero 3 (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1293499686000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "4e86500a9a3868163b120580d291794a540db2b5": {
+      "titulo": "MEGAMANZERO4",
+      "game_code": "B4ZE",
+      "caminho": "D:\\JOGOS\\GBA\\MegaMan Zero 4 (BR)\\MegaMan Zero 4 (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1146359876000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "5c642a4b5d21438830a329ccb2524ffa2d08c442": {
+      "titulo": "METAL SLUG",
+      "game_code": "BSME",
+      "caminho": "D:\\JOGOS\\GBA\\Metal Slug Advance (BR)\\Metal Slug Advance (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1306442178103400000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "75ef3bcdbd8aba5fc35ba0fd67e98a6db8b95924": {
+      "titulo": "ZEROMISSIONE",
+      "game_code": "BMXE",
+      "caminho": "D:\\JOGOS\\GBA\\Metroid - Zero Mission (BR)\\Metroid - Zero Mission (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1306442266788400000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "2396d98b34e774e18838f52f9ce288ae35c8836a": {
+      "titulo": "METROID4USA",
+      "game_code": "AMTE",
+      "caminho": "D:\\JOGOS\\GBA\\Metroid Fusion (BR)\\Metroid Fusion (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1293499658000000000,
+      "header_valido": false,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "5c8d23d1147c3dbb549bf2b4c5ed1e27959181b2": {
+      "titulo": "MKALLIANCE",
+      "game_code": "AXDE",
+      "caminho": "D:\\JOGOS\\GBA\\Mortal Kombat Deadly Alliance (BR)\\Mortal Kombat Deadly Alliance (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1156812526000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "2b41a11f925cb99d45bb78b89958604971872250": {
+      "titulo": "MOTHER12",
+      "game_code": "A2UJ",
+      "caminho": "D:\\JOGOS\\GBA\\Mother 1 & 2 (BR)\\Mother 1 & 2 (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1373778386000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "330c62deaf9d285ce316e13a65feb784cec9030f": {
+      "titulo": "MOTHER3",
+      "game_code": "A3UJ",
+      "caminho": "D:\\JOGOS\\GBA\\Mother 3 (BR)\\Mother_3_BR.gba",
+      "tamanho": 33554432,
+      "mtime_ns": 1437810291000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "e36266b544d8dd72aa006b006d57ce92a4a516e5": {
+      "titulo": "NARUTO US2",
+      "game_code": "BN2E",
+      "caminho": "D:\\JOGOS\\GBA\\Naruto Ninja Council 2 (BR)\\Naruto Ninja Council 2 (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1164147858000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "2102374344073807ab26f3804d77cc4fe29b3590": {
+      "titulo": "NGT / ROLAND",
+      "game_code": "ATXP",
+      "caminho": "D:\\JOGOS\\GBA\\Next Generation Tennis (BR)\\Next Generation Tennis (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1022706176000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "a3d3a3769b4c744aaba4df4cd41898c546d296f8": {
+      "titulo": "NICK ATTACK",
+      "game_code": "BUJX",
+      "caminho": "D:\\JOGOS\\GBA\\Nicktoons - Attack of the Toybots (BR)\\Nicktoons - Attack of the Toybots (BR).gba",
+      "tamanho": 4198645,
+      "mtime_ns": 1388055070000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "9ec991382de8e161bcd22a87e7ac219d8a18d341": {
+      "titulo": "NICKTOONSUNI",
+      "game_code": "BNUE",
+      "caminho": "D:\\JOGOS\\GBA\\Nicktoons Unite! (BR)\\Nicktoons Unite! (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1569462030000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "38d9f318b6979193419001ee7fd23f0bef4a70a7": {
+      "titulo": "NINJA FIVE 0",
+      "game_code": "ANXE",
+      "caminho": "D:\\JOGOS\\GBA\\Ninja Five-0 (BR)\\Ninja Five-0 (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1450818576000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "9a1eb8224d5bd68f0d3d2417fe233472e7b80713": {
+      "titulo": "NODDYTOYLAND",
+      "game_code": "BNKP",
+      "caminho": "D:\\JOGOS\\GBA\\Noddy - A Day in Toyland (BR)\\Noddy - A Day in Toyland (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1169000234000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "c24bad05b1cd7fc51a4028a32a84812bd7a5d33d": {
+      "titulo": "ONEPIECE",
+      "game_code": "BONE",
+      "caminho": "D:\\JOGOS\\GBA\\One Piece (BR)\\One Piece (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1146098544000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "a58094a10059c7ce868801a0dacab0cfc9b18418": {
+      "titulo": "OPEN SEASON",
+      "game_code": "BOAE",
+      "caminho": "D:\\JOGOS\\GBA\\Open Season (BR)\\Open Season (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 473519930000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "4c034a7aad1a9695e5f7b81664c7ea3355b0ced2": {
+      "titulo": "PIRATESCARIB",
+      "game_code": "A8QP",
+      "caminho": "D:\\JOGOS\\GBA\\Pirates of the Caribbean - The Curse of the Black Pearl (BR)\\Pirates of the Caribbean - The Curse of the Black Pearl (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1569462030000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "f753e11da0b9ebfb8a015d8b31aa399b628342aa": {
+      "titulo": "PLANETOFAPES",
+      "game_code": "AYNE",
+      "caminho": "D:\\JOGOS\\GBA\\Planet of the Apes (BR)\\Planet of the Apes (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1372598096000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "f4e1c204646933ecc9ee3d8bc688f2244b82c130": {
+      "titulo": "POKEMON FIRE",
+      "game_code": "BPRE",
+      "caminho": "D:\\JOGOS\\GBA\\Pokemon - Fire Red (BR)\\Pokemon - Fire Red (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1485222560520098600,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "80a39e98f09b7ae66a43bbf19643caad027a53ea": {
+      "titulo": "POKEMON RUBY",
+      "game_code": "AXVE",
+      "caminho": "D:\\JOGOS\\GBA\\Pokemon - New Hoenn (BR)\\Pokemon - New Hoenn (BR).gba",
+      "tamanho": 16777256,
+      "mtime_ns": 1295809350000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "06a5acd9db6dfd63b5a11f3ee23b1724a4b1e896": {
+      "titulo": "POKEMON RUBY",
+      "game_code": "AXVE",
+      "caminho": "D:\\JOGOS\\GBA\\Pokemon Dark Fire (BR)\\Pokemon Dark Fire (BR).gba",
+      "tamanho": 16803160,
+      "mtime_ns": 1236948666000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "23b52fa8dbc20d3648e888105815986d90933ffd": {
+      "titulo": "POKEMON RUBY",
+      "game_code": "LUNA",
+      "caminho": "D:\\JOGOS\\GBA\\Pokemon Lunares (BR)\\Pokemon Lunares BR.gba",
+      "tamanho": 16921200,
+      "mtime_ns": 1175971356000000000,
+      "header_valido": false,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "cd057f93fa823d65c999253b6066028781ce0b91": {
+      "titulo": "POKEMON RUBY",
+      "game_code": "AXVE",
+      "caminho": "D:\\JOGOS\\GBA\\Pokemon Ruby (BR)\\Pokemon Ruby (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1076197126000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "c4d294cb591cd9b3ce98564ddfb98e0ac48ebef6": {
+      "titulo": "POKEMON RUBY",
+      "game_code": "AXVE",
+      "caminho": "D:\\JOGOS\\GBA\\Pokemon Shadow Force (BR)\\Pokemon Shadow Force (BR).gba",
+      "tamanho": 16835352,
+      "mtime_ns": 1245366412000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "bf92db5ce0c2c002bfb1f0cc167c3a42f0aa46f4": {
+      "titulo": "POKEMON EMER",
+      "game_code": "BPEE",
+      "caminho": "D:\\JOGOS\\GBA\\Pokémon Emerald (BR)\\Pokémon Emerald (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1293499908000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "51c58777953734cebf41362e27571729ad778d9e": {
+      "titulo": "POKEMON LEAF",
+      "game_code": "BPGE",
+      "caminho": "D:\\JOGOS\\GBA\\Pokémon Leaf Green (BR)\\Pokémon Leaf Green (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1272148094000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "195aa9126f32d1fee468163bef6bc654264660d2": {
+      "titulo": "POKE DUNGEON",
+      "game_code": "B24E",
+      "caminho": "D:\\JOGOS\\GBA\\Pokémon Mystery Dungeon - Red Rescue Team (BR)\\Pokémon Mystery Dungeon - Red Rescue Team (BR).gba",
+      "tamanho": 33554432,
+      "mtime_ns": 1450819150000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "279b427b5d5549c3211077c437b94a2a808bdef0": {
+      "titulo": "POKEMON SAPP",
+      "game_code": "AXPE",
+      "caminho": "D:\\JOGOS\\GBA\\Pokémon Sapphire (BR)\\Pokémon Sapphire (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1484779318701994100,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "43202f73aba76e015f75b8b5e922aa1794e24275": {
+      "titulo": "POKEMON VOLC",
+      "game_code": "MPPC",
+      "caminho": "D:\\JOGOS\\GBA\\Pokémon Volcano (BR)\\Pokémon Volcano (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1225747626000000000,
+      "header_valido": false,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "988363c56dec71db213346daa971151a70f6ce5d": {
+      "titulo": "PRINCEPERSIA",
+      "game_code": "BPYE",
+      "caminho": "D:\\JOGOS\\GBA\\Prince of Persia - The Sands of Time (BR)\\Prince of Persia - The Sands of Time ( BR ).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1437206757000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "2b2c0ed56e45d56c234503cbe74319b800e6702d": {
+      "titulo": "PNATASHASSAP",
+      "game_code": "BNPE",
+      "caminho": "D:\\JOGOS\\GBA\\Princess Natasha (BR)\\Princess Natasha (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1422975120000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "635504fffd667670df858f76f38fdae7a797b835": {
+      "titulo": "PRO BEACH SO",
+      "game_code": "AVEP",
+      "caminho": "D:\\JOGOS\\GBA\\Pro Beach Soccer (BR)\\Pro Beach Soccer (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1054155020000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "043eec99f57fcb2c39dd42d03367a50d208d3f8a": {
+      "titulo": "RTYPE III",
+      "game_code": "BR3P",
+      "caminho": "D:\\JOGOS\\GBA\\R-Type III - The Third Lightning (BR)\\R-Type III - The Third Lightning (BR).gba",
+      "tamanho": 4201327,
+      "mtime_ns": 1450819634000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "c16cb5e00b6d38a28b3991eac07fff4131eebacf": {
+      "titulo": "RAINBOWSIX-R",
+      "game_code": "AR6E",
+      "caminho": "D:\\JOGOS\\GBA\\Rainbow Six Rogue Spear (BR)\\Rainbow Six Rogue Spear (BR).GBA",
+      "tamanho": 8388608,
+      "mtime_ns": 1190457938000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "b76ff3727e614ea9ffbae7221b496fb65d32b26e": {
+      "titulo": "RATATOUILLE",
+      "game_code": "BNLY",
+      "caminho": "D:\\JOGOS\\GBA\\Ratatouille (BR)\\Ratatouille (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 851477520000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "c569255fa4235947b37ff78c5d30994d28685599": {
+      "titulo": "RAYMAN 3",
+      "game_code": "AYZE",
+      "caminho": "D:\\JOGOS\\GBA\\Rayman 3 (BR)\\Rayman 3 (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1387848192000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "fc59ba435ca7e2e40b1d2c4d9c7be3cbfe1f03f2": {
+      "titulo": "RAYMAN",
+      "game_code": "ARYE",
+      "caminho": "D:\\JOGOS\\GBA\\Rayman Advance (BR)\\Rayman Advance (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1181343012000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "a0d3bbe804bb9722a578d4573f0818130bf652ed": {
+      "titulo": "ROBOT WARS A",
+      "game_code": "ARWP",
+      "caminho": "D:\\JOGOS\\GBA\\Robot Wars - Advanced Destruction (BR)\\Robot Wars - Advanced Destruction (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1372598094000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:53",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "fee217389869abccf732b27fd3b3bcd6d7d4cdfe": {
+      "titulo": "ROBO MACROSS",
+      "game_code": "ARBE",
+      "caminho": "D:\\JOGOS\\GBA\\Robotech - The Macross Saga (BR)\\Robotech - The Macross Saga (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1181343182000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "dc3e97aa2d8b0ab33a0ecc624444481365fb1121": {
+      "titulo": "DREAMSCHEME",
+      "game_code": "ARKE",
+      "caminho": "D:\\JOGOS\\GBA\\Rocket Power - Dream Scheme (BR)\\Rocket Power - Dream Scheme (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1164574566000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "e56740ad9b598757003ade567c3c1605ab8b988a": {
+      "titulo": "SAMURAIJACK",
+      "game_code": "cJTE",
+      "caminho": "D:\\JOGOS\\GBA\\Samurai Jack - The Amulet of Time (BR)\\Samurai Jack - The Amulet of Time (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1146098058000000000,
+      "header_valido": false,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "a286ba0ec687f11ab8d7c62af95e5c21ce0a6997": {
+      "titulo": "SCOOBY DOO 2",
+      "game_code": "BMUX",
+      "caminho": "D:\\JOGOS\\GBA\\Scooby-Doo 2 - Monsters Unleashed (BR)\\Scooby-Doo 2 - Monsters Unleashed (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1187450390000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "728350c166f86dd940239b78ad67735e34c2ceb6": {
+      "titulo": "SHAMAN KING2",
+      "game_code": "B2ME",
+      "caminho": "D:\\JOGOS\\GBA\\Shaman King - Master of Spirits 2 (BR)\\Shaman King - Master of Spirits 2 (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1295809838000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "c558d97eda10f90566e59e6ba0f7232445e9efbf": {
+      "titulo": "SHAMAN KING",
+      "game_code": "BSOE",
+      "caminho": "D:\\JOGOS\\GBA\\Shaman King Master of Spirits (BR)\\Shaman King Master of Spirits (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 473519930000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "38d581bbe8a97bcb3737059453d1d4ce3d514395": {
+      "titulo": "SHININGFORCE",
+      "game_code": "AF5P",
+      "caminho": "D:\\JOGOS\\GBA\\Shining Force - Resurrection of the Dark Dragon (BR)\\Shining Force - Resurrection of the Dark Dragon (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1388046310000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "6f18143a9c877a26ef81306065a9f85d8241255e": {
+      "titulo": "SHINING SOUL",
+      "game_code": "AHUE",
+      "caminho": "D:\\JOGOS\\GBA\\Shining Soul (BR)\\Shining Soul (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1388043022000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "990a89bd1cdfc9397aceddb428e2df060ec4ec49": {
+      "titulo": "SHINING SOUL",
+      "game_code": "AU2P",
+      "caminho": "D:\\JOGOS\\GBA\\Shining Soul II (BR)\\Shining Soul II (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1450821314000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "20a72092b438c20c297892c07f39acdd40e5cc81": {
+      "titulo": "SPIDERMAN MM",
+      "game_code": "ASEE",
+      "caminho": "D:\\JOGOS\\GBA\\Spider-Man - Mysterio's Menace (BR)\\Spider-Man - Mysterios Menace (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1177184776000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "b51d048f6027a9450834d0d1734ee4db0cdc5c4f": {
+      "titulo": "SPIDER-MAN2",
+      "game_code": "BSPE",
+      "caminho": "D:\\JOGOS\\GBA\\Spider-Man 2 (BR)\\Spider-Man 2 (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1177185358000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "d2a080a12b4a588c968d8a2d52351f77c88e946a": {
+      "titulo": "SPIDERMAN3",
+      "game_code": "BI3S",
+      "caminho": "D:\\JOGOS\\GBA\\Spider-Man 3 (BR)\\Spider-Man 3 (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1450822026000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "809f8e3936bbb1d3f7efa19389379c8e3080b44b": {
+      "titulo": "SPLINTERCELL",
+      "game_code": "AO4E",
+      "caminho": "D:\\JOGOS\\GBA\\Splinter Cell (BR)\\Splinter Cell (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1372598072000000000,
+      "header_valido": false,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "13e9826d31c9495fde55117a3c4c90b86be6d37e": {
+      "titulo": "TOM CLANCY'S",
+      "game_code": "BSLP",
+      "caminho": "D:\\JOGOS\\GBA\\Splinter Cell Pandora Tomorrow (BR)\\Splinter Cell Pandora Tomorrow (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1050470258000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "480e0b5f8ac0f5a3da4c29fa213b91a8f68d737e": {
+      "titulo": "SBSP SS",
+      "game_code": "ASPE",
+      "caminho": "D:\\JOGOS\\GBA\\SpongeBob SquarePants - SuperSponge (BR)\\SpongeBob SquarePants - SuperSponge (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1181364954000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "41c01aec983c2461db09e15632612b0461f3f26b": {
+      "titulo": "STAR WARS EP",
+      "game_code": "AS2E",
+      "caminho": "D:\\JOGOS\\GBA\\Star Wars Episode II - Attack Of The Clones (BR)\\Star Wars Episode II - Attack Of The Clones (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1181343430000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "bd9ceaa68f720f97411f2562cb2344267a4085e7": {
+      "titulo": "STAR WARS",
+      "game_code": "BE3P",
+      "caminho": "D:\\JOGOS\\GBA\\Star Wars Episode III - Revenge of The Sith (BR)\\Star Wars Episode III - Revenge of The Sith (Br).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1295809444000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "abf63b6dee8368b06b3e6dbee5844314f1f292f3": {
+      "titulo": "SHORTCAKEIRC",
+      "game_code": "B35P",
+      "caminho": "D:\\JOGOS\\GBA\\Strawberry Shortcake - Ice Cream Island (BR)\\Strawberry Shortcake - Ice Cream Island - Riding Camp.gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1135787958000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "f62396b5502437651d26e1ad27a8ec8c18b4268e": {
+      "titulo": "S BUBBLE POP",
+      "game_code": "AVZP",
+      "caminho": "D:\\JOGOS\\GBA\\Super Bubble Pop (BR)\\Super Bubble Pop (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1075235156000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "16b49adf9754ef330aeced812e11bfbc5838194c": {
+      "titulo": "SUPER GHOULS",
+      "game_code": "AG5E",
+      "caminho": "D:\\JOGOS\\GBA\\Super Ghouls 'n Ghosts (BR)\\Super Ghouls 'n Ghosts (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1388027076000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "6cda3f7ead67f6876e44b2c86edaad47c23d7cf1": {
+      "titulo": "SUPER MARIOA",
+      "game_code": "AMZE",
+      "caminho": "D:\\JOGOS\\GBA\\Super Mario Advance (BR)\\Super Mario Advance (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1372111082000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "52e80cd3f70bb4504d763f43f7ae820e413bbcf9": {
+      "titulo": "SUPER MARIOB",
+      "game_code": "AA2E",
+      "caminho": "D:\\JOGOS\\GBA\\Super Mario Advance 2 - Super Mario World (BR)\\Super Mario Advance 2 - Super Mario World (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1498523604000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "374508e0c034e3dd1b0e17a039d126cf6392f679": {
+      "titulo": "SRTOG2",
+      "game_code": "B2RE",
+      "caminho": "D:\\JOGOS\\GBA\\Super Robot Taisen - Original Generation 2 (BR)\\Super Robot Taisen - Original Generation 2 (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1423317218000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "70abce13fdfa4192223ea221313a32ec6500f957": {
+      "titulo": "TAK GJC",
+      "game_code": "BJWX",
+      "caminho": "D:\\JOGOS\\GBA\\Tak - The Great Juju Challenge (BR)\\Tak - The Great Juju Challenge (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1286933502000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "7a0d76a73a043857b54e11ed85b21bd6e35019b5": {
+      "titulo": "TMNT GBA",
+      "game_code": "BNTE",
+      "caminho": "D:\\JOGOS\\GBA\\Teenage Mutant Ninja Turtles (BR)\\Teenage Mutant Ninja Turtles (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1155074196000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "48b991f56e1c3478594741ffa5a6f655f176cbf8": {
+      "titulo": "TMNT GBA 2",
+      "game_code": "BT2E",
+      "caminho": "D:\\JOGOS\\GBA\\Teenage Mutant Ninja Turtles 2 - Battle Nexus (BR)\\Teenage Mutant Ninja Turtles 2 - Battle Nexus (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1155096092000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "15c02e2beef8ad8bc47b7a82c44b6cfe71b2b888": {
+      "titulo": "TEKKEN",
+      "game_code": "ATKJ",
+      "caminho": "D:\\JOGOS\\GBA\\Tekken Advance (BR)\\Tekken Advance (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1164575196000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "04c64bcf4524697aca4e42d3d353db75209c4235": {
+      "titulo": "TENNISMASTER",
+      "game_code": "AT8P",
+      "caminho": "D:\\JOGOS\\GBA\\Tennis Masters Series 2003 (BR)\\Tennis Masters Series 2003 (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1033116296000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "c97157c72ce015342e7203e0e3d5c02d3586340f": {
+      "titulo": "FAIRLYODDPAR",
+      "game_code": "AFVE",
+      "caminho": "D:\\JOGOS\\GBA\\The Fairly OddParents! Enter the Cleft (BR)\\Fairly Odd Parents - Enter the Cleft (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1253219634000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "80bfe5518903565e451988e9dba51837606d6a95": {
+      "titulo": "THE GRIM ADV",
+      "game_code": "BIEE",
+      "caminho": "D:\\JOGOS\\GBA\\The Grim Adventures of Billy & Mandy (BR)\\The Grim Adventures of Billy & Mandy (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1388048452000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "e7375c13caacd28ea8b8fd0383ab3479e817e1de": {
+      "titulo": "HOBBIT US",
+      "game_code": "AH9E",
+      "caminho": "D:\\JOGOS\\GBA\\The Hobbit (BR)\\The Hobbit (BR).GBA",
+      "tamanho": 8388608,
+      "mtime_ns": 1154983300000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "68aa33bae485de4a841b15d0bc9cea35f06611bb": {
+      "titulo": "INCREDBLEAGB",
+      "game_code": "BICE",
+      "caminho": "D:\\JOGOS\\GBA\\The Incredibles (BR)\\The Incredibles (BR).GBA",
+      "tamanho": 8388608,
+      "mtime_ns": 1372598060000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "0798223e4906584080042081ac50070be378e82a": {
+      "titulo": "INCREDBLROTU",
+      "game_code": "BIQX",
+      "caminho": "D:\\JOGOS\\GBA\\The Incredibles - Rise of the Underminer (BR)\\The Incredibles - Rise of the Underminer (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1131706660000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "c656ef7639adff9334abb1dbf83fbc1a913f25db": {
+      "titulo": "EMUBRAZIL",
+      "game_code": "2003",
+      "caminho": "D:\\JOGOS\\GBA\\The Land Before Time (BR)\\The Land Before Time (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1372598058000000000,
+      "header_valido": false,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "30820bceb45bbf70cb78e9f66462248430444528": {
+      "titulo": "LBT_ITMB",
+      "game_code": "BLOP",
+      "caminho": "D:\\JOGOS\\GBA\\The Land Before Time - Into the Mysterious Beyond (BR)\\The Land Before Time - Into the Mysterious Beyond (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1459425319957006900,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "5b42e3a065a9484816ba6de8de5d46d8c97779a1": {
+      "titulo": "GBAZELDA",
+      "game_code": "AZLE",
+      "caminho": "D:\\JOGOS\\GBA\\The Legend of Zelda - A Link to the Past & Four Swords (BR)\\The Legend of Zelda - A Link to the Past & Four Swords (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1422150768000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "753a08d35e983c689b60d52d4264c80d7a4e3bab": {
+      "titulo": "GBAZELDA MC",
+      "game_code": "BZME",
+      "caminho": "D:\\JOGOS\\GBA\\The Legend of Zelda - The Minish Cap (BR)\\The Legend of Zelda - The Minish Cap (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1230420294000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "3b88fe723dc96e4d1e4b93d562a1000b2ea9e24c": {
+      "titulo": "UNIVERSLOTR",
+      "game_code": "ALOE",
+      "caminho": "D:\\JOGOS\\GBA\\The Lord of the Rings - The Fellowship of the Ring (BR)\\Senhor dos anéis - The Fellowship of the Ring (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1148322248000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "23362ab22331332428b69f2ed542c4606eb08a66": {
+      "titulo": "PPG MOJOGOGO",
+      "game_code": "APTE",
+      "caminho": "D:\\JOGOS\\GBA\\The Powerpuff Girls - Mojo Jojo A-Go-Go (BR)\\The Powerpuff Girls - Mojo-Jojo A-Go-Go! (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1181343778000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "36cc9a18b092c2b3ba2defdfc8afab5e3b2fc5b7": {
+      "titulo": "REVENGEOFSHI",
+      "game_code": "A3RP",
+      "caminho": "D:\\JOGOS\\GBA\\The Revenge of Shinobi (BR)\\The Revenge of Shinobi (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1388041444000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "98e547eecf5a1b114c60d24b58128f8f96d45a2b": {
+      "titulo": "SCORPIONKING",
+      "game_code": "ASZE",
+      "caminho": "D:\\JOGOS\\GBA\\The Scorpion King - Sword of Osiris (BR)\\The Scorpion King - Sword of Osiris (BR).gba",
+      "tamanho": 4194304,
+      "mtime_ns": 1388055826000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "958322362c1d5a45b8a8576a10f36fdd5900a7e5": {
+      "titulo": "TOMB-RAIDER",
+      "game_code": "AL9P",
+      "caminho": "D:\\JOGOS\\GBA\\Tomb Raider - The Prophecy (BR)\\Tomb Raider - The Prophecy (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1050472416000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "faf9c1d3a80ed029f81af1bbd6d4484070ab561d": {
+      "titulo": "TH SK8LAND",
+      "game_code": "BH9P",
+      "caminho": "D:\\JOGOS\\GBA\\Tony Hawk's American Sk8land (BR)\\Tony Hawk's American Sk8land (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1420900144000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "b98dcbae7f2bdce7e51bc77507298a4dcefa083c": {
+      "titulo": "TOTALLYSPIES",
+      "game_code": "BTUP",
+      "caminho": "D:\\JOGOS\\GBA\\Totally Spies! (BR)\\Totally Spies! (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1466861278000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "6f72f1eed20c83e3436f623133788ebe5571c5a4": {
+      "titulo": "VAN HELSING",
+      "game_code": "BANE",
+      "caminho": "D:\\JOGOS\\GBA\\Van Helsing (BR)\\Van Helsing (BR).gba",
+      "tamanho": 4233352,
+      "mtime_ns": 1388050464000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "f144015998bc3aec63d3e074f26ff521b31f9f19": {
+      "titulo": "WARIOLANDE",
+      "game_code": "AWAE",
+      "caminho": "D:\\JOGOS\\GBA\\Wario Land 4 (BR)\\Wario Land 4 (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1423321392000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "fda0aedee4c2677b0a24e2a3c25f21a3857a93b5": {
+      "titulo": "XMENROA",
+      "game_code": "AXME",
+      "caminho": "D:\\JOGOS\\GBA\\X-Men - Reign of Apocalypse (BR)\\X-Men - Reign of Apocalypse (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1155996490000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "2ef19dead5366c497d04b7c95f776101817c1ccf": {
+      "titulo": "X2 WOLVERINE",
+      "game_code": "AWVE",
+      "caminho": "D:\\JOGOS\\GBA\\X-Men 2 - Wolverine's Revenge (BR)\\X-Men 2 - Wolverine's Revenge (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1295809748000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "78f1abb1711e6a19dcaae9b6bf8da1dec3737c1e": {
+      "titulo": "X-MEN: THE O",
+      "game_code": "B3XE",
+      "caminho": "D:\\JOGOS\\GBA\\X-Men 3 - The Official Game (BR)\\X-Men 3 - The Official Game (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1569462030000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "9f8633ca7b758136f3f4b06721d13eea5bd2d8b5": {
+      "titulo": "YUYUHAKUSHO1",
+      "game_code": "BYYE",
+      "caminho": "D:\\JOGOS\\GBA\\Yu Yu Hakusho - Spirit Detective (BR)\\Yu Yu Hakusho - Spirit Detective(br).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1242700804000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "44252dc3a386109367199de5e89646a89d76808a": {
+      "titulo": "YUYUHAKUSHO2",
+      "game_code": "BRGE",
+      "caminho": "D:\\JOGOS\\GBA\\Yu Yu Hakusho - Tournament Tactics (BR)\\Yu Yu Hakusho - Tournament Tactics (BR).gba",
+      "tamanho": 8444709,
+      "mtime_ns": 1231014328000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "e7c65a5ab2bbaeb911f38aa84a43bad4ba77f9de": {
+      "titulo": "YUGIOH DM7",
+      "game_code": "AY7E",
+      "caminho": "D:\\JOGOS\\GBA\\Yu-Gi-Oh! - The Sacred Cards (BR)\\Yu-Gi-Oh! - The Sacred Cards (BR).gba",
+      "tamanho": 16777216,
+      "mtime_ns": 1271847712000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "54bb8e8e8e786cbadcc8fda0441cea6ff680c950": {
+      "titulo": "YU-GI-OH!EDS",
+      "game_code": "AY5E",
+      "caminho": "D:\\JOGOS\\GBA\\Yu-Gi-Oh! The Eternal Duelist Soul (BR)\\Yu-Gi-Oh! The Eternal Duelist Soul (BR).gba",
+      "tamanho": 8403660,
+      "mtime_ns": 1436663652000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    },
+    "d2a57d17e1c61bfda1062db2b90e630bfaaae6ff": {
+      "titulo": "ZATCH EA1",
+      "game_code": "A4GE",
+      "caminho": "D:\\JOGOS\\GBA\\Zatchbell! Electric Arena (BR)\\Zatchbell! - Electric Arena (BR).gba",
+      "tamanho": 8388608,
+      "mtime_ns": 1388052386000000000,
+      "header_valido": true,
+      "adicionado_em": "2026-11-19T10:31:54",
+      "opcoes": {
+        "backend": "interp",
+        "escala": 3,
+        "tela_cheia": false,
+        "volume": 80,
+        "velocidade": 1,
+        "filtro_cor": "normal",
+        "filtro_res": "nearest"
+      }
+    }
+  }
+}

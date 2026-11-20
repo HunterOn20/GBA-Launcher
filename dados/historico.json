@@ -1,0 +1,100 @@
+{
+  "entradas": [
+    {
+      "sha1": "9cdcb8b15dcfd601d9e6246f2384dfd1e13e1dca",
+      "titulo": "POKEMON RUBY",
+      "caminho": "D:\\JOGOS\\GBA\\Pokemon Pigment Ruby (v1.0)\\Pokemon Pigment Ruby V1.GBA",
+      "inicio": "2026-11-19T12:40:47",
+      "backend": "interp",
+      "duracao_segundos": 1564.9
+    },
+    {
+      "sha1": "9cdcb8b15dcfd601d9e6246f2384dfd1e13e1dca",
+      "titulo": "POKEMON RUBY",
+      "caminho": "D:\\JOGOS\\GBA\\Pokemon Pigment Ruby (v1.0)\\Pokemon Pigment Ruby V1.GBA",
+      "inicio": "2026-11-19T12:40:20",
+      "backend": "interp",
+      "duracao_segundos": 13.9
+    },
+    {
+      "sha1": "23b52fa8dbc20d3648e888105815986d90933ffd",
+      "titulo": "POKEMON RUBY",
+      "caminho": "D:\\JOGOS\\GBA\\Pokemon Lunares (BR)\\Pokemon Lunares BR.gba",
+      "inicio": "2026-11-19T12:40:01",
+      "backend": "interp",
+      "duracao_segundos": 13.9
+    },
+    {
+      "sha1": "372914d8d8214fd4d024063731dea0892206995e",
+      "titulo": "BANJOKAZOOIE",
+      "caminho": "D:\\JOGOS\\GBA\\Banjo-Kazooie - Grunty's Revenge (BR)\\Banjo-Kazooie - Grunty's Revenge (BR).gba",
+      "inicio": "2026-11-19T11:53:39",
+      "backend": "interp",
+      "duracao_segundos": 85.8
+    },
+    {
+      "sha1": "56bedfb6d2f970a384cb54f6024eb7342d37d807",
+      "titulo": "POKEMON FIRE",
+      "caminho": "D:\\JOGOS\\GBA\\Pokemon Psychic Adventure (V3.5)\\Pokemon Psychic Adventures v3.5.gba",
+      "inicio": "2026-11-14T16:21:39",
+      "backend": "interp",
+      "duracao_segundos": 24.0
+    },
+    {
+      "sha1": "9d6caf202d154718fea74307db1f403e51a7a167",
+      "titulo": "POKEMON FIRE",
+      "caminho": "D:\\JOGOS\\GBA\\Pokemon Girls Hunter 3\\Pokemon Girls Hunter 3 Version 2022-09-03.gba",
+      "inicio": "2026-11-14T16:21:23",
+      "backend": "interp",
+      "duracao_segundos": 7.4
+    },
+    {
+      "sha1": "9cdcb8b15dcfd601d9e6246f2384dfd1e13e1dca",
+      "titulo": "POKEMON RUBY",
+      "caminho": "D:\\JOGOS\\GBA\\Pokemon Pigment Ruby (v1.0)\\Pokemon Pigment Ruby V1.GBA",
+      "inicio": "2026-11-14T16:20:43",
+      "backend": "interp",
+      "duracao_segundos": 29.9
+    },
+    {
+      "sha1": "9cdcb8b15dcfd601d9e6246f2384dfd1e13e1dca",
+      "titulo": "POKEMON RUBY",
+      "caminho": "D:\\JOGOS\\GBA\\Pokemon Pigment Ruby (v1.0)\\Pokemon Pigment Ruby V1.GBA",
+      "inicio": "2026-11-14T16:20:29",
+      "backend": "dynarec",
+      "duracao_segundos": 5.4
+    },
+    {
+      "sha1": "7862c67bdecbe21d1d69ce082ce34327e1c6ed5e",
+      "titulo": "POKEMON LEAF",
+      "caminho": "D:\\JOGOS\\GBA\\Pokemon - LeafGreen Version (USA, Europe) (Rev 1)\\Pokemon - LeafGreen Version (USA, Europe) (Rev 1).gba",
+      "inicio": "2026-11-14T16:17:50",
+      "backend": "dynarec",
+      "duracao_segundos": 67.3
+    },
+    {
+      "sha1": "dd5945db9b930750cb39d00c84da8571feebf417",
+      "titulo": "POKEMON FIRE",
+      "caminho": "D:\\JOGOS\\GBA\\Pokemon - FireRed Version (USA, Europe) (Rev 1).gba",
+      "inicio": "2026-11-14T16:16:21",
+      "backend": "interp",
+      "duracao_segundos": 72.5
+    },
+    {
+      "sha1": "dd5945db9b930750cb39d00c84da8571feebf417",
+      "titulo": "POKEMON FIRE",
+      "caminho": "D:\\JOGOS\\GBA\\Pokemon - FireRed Version (USA, Europe) (Rev 1).gba",
+      "inicio": "2026-11-14T13:08:03",
+      "backend": "interp",
+      "duracao_segundos": 1.7
+    },
+    {
+      "sha1": "dd5945db9b930750cb39d00c84da8571feebf417",
+      "titulo": "POKEMON FIRE",
+      "caminho": "D:\\JOGOS\\GBA\\Pokemon - FireRed Version (USA, Europe) (Rev 1).gba",
+      "inicio": "2026-11-14T11:56:43",
+      "backend": "interp",
+      "duracao_segundos": 23.8
+    }
+  ]
+}
