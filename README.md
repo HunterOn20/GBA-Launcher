@@ -1,3 +1,4 @@
+<img width="128" height="128" alt="pokebola" src="https://github.com/user-attachments/assets/085ed913-76fe-4e87-87f9-4b6498d0262d" />
 # GBA Launcher
 
 > Emulador de Game Boy Advance em duas camadas: um launcher em Python/tkinter
