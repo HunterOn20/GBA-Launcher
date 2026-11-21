@@ -1,4 +1,6 @@
-<img width="center" height="128" alt="pokebola" src="https://github.com/user-attachments/assets/085ed913-76fe-4e87-87f9-4b6498d0262d" />
+<div>
+  <img width="225" height="225" text-position="center" alt="pokebola" src="https://github.com/user-attachments/assets/085ed913-76fe-4e87-87f9-4b6498d0262d" />
+</div>
 
 # GBA Launcher
 
